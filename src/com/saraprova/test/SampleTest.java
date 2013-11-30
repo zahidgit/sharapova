@@ -15,7 +15,7 @@ public class SampleTest extends TestBase{
 		clickByXpath(loc.PrizeButtonXpath);
 		clickByXpath(loc.PlayAndWinButton);
 		clickByXpath(loc.EpisodbuttonXpath);
-		clickByXpath(loc.RecordButtonXpath);
+		//clickByXpath(loc.RecordButtonXpath);
 		//assertEquals(loc.ExpectedTextXpath,data.actualText);
 	}
 	
